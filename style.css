@@ -1,0 +1,26 @@
+.header {
+    margin: 40px 40px 40px 40px;
+    font-style: italic;
+    font-weight: bold;
+    color:darkgreen;
+}
+
+body {
+    height:100%;
+    text-align: center; 
+    background-color: lightgray;
+    border: 10px solid black;
+    margin: 50px;
+}
+
+html {
+    background-color: lightblue;
+}
+
+#myTable {
+    margin: 0 auto;
+}
+
+#container {
+    padding: 20px;
+}
